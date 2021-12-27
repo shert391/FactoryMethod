@@ -1,0 +1,8 @@
+D:\VisualStudioProject\Contest\Fabrica\bin\Debug\Contest.exe.config
+D:\VisualStudioProject\Contest\Fabrica\bin\Debug\Contest.exe
+D:\VisualStudioProject\Contest\Fabrica\bin\Debug\Contest.pdb
+D:\VisualStudioProject\Contest\Fabrica\obj\Debug\Fabrica.csproj.AssemblyReference.cache
+D:\VisualStudioProject\Contest\Fabrica\obj\Debug\Fabrica.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudioProject\Contest\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\Contest\Fabrica\obj\Debug\Contest.exe
+D:\VisualStudioProject\Contest\Fabrica\obj\Debug\Contest.pdb
